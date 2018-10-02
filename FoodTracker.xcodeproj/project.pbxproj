@@ -85,7 +85,6 @@
 		74C007BB213599CB000D2FF2 = {
 			isa = PBXGroup;
 			children = (
-				742243E42139A72C00397408 /* Meal.swift */,
 				74C007C6213599CB000D2FF2 /* FoodTracker */,
 				74C007DB213599CC000D2FF2 /* FoodTrackerTests */,
 				74C007E6213599CC000D2FF2 /* FoodTrackerUITests */,
@@ -112,6 +111,7 @@
 				7464E7D0213B7778009DFBEF /* MealTableViewCell.swift */,
 				7464E7D2213B85A4009DFBEF /* MealTableViewController.swift */,
 				745C69BE21382A140094F379 /* RatingControl.swift */,
+				742243E42139A72C00397408 /* Meal.swift */,
 				74C007CE213599CC000D2FF2 /* Assets.xcassets */,
 				74C007D0213599CC000D2FF2 /* LaunchScreen.storyboard */,
 				74C007D3213599CC000D2FF2 /* Info.plist */,
